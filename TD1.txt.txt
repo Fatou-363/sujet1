@@ -1,0 +1,51 @@
+compte rendu TD Web dynamique
+
+Q1 App :le répertoire App est le dossier application il contient le controleur et la vew.
+
+Q2 conf: le répertoire conf contient les fichiers de configuration de l’application.
+
+Q3 lib : est la librairies.
+
+Q4 public sauvegarde les images.
+ 
+Q5 text permet d'ecrire les textes.
+
+Q6 les fichiers .class sont stockés dans le repertoire project/target/config-classes.
+
+Q8 la route choisie est URL du Path. GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+Q9 l'aspect statique est un aspect qui s'oppose a l'aspect dynamique.
+ 
+Q10 la methode rendre() permet d'appliquer les élement a la page web.
+
+
+AUTO EVALUATION
+
+Travail réalisé        Note sur	Ma note 	Note du professeur
+
+Réponses écrites	                    5 	        4
+	
+Correspondance controller/vue               3	        2
+	
+Partie html (pratique)	                    3	        2
+	
+Partie css (pratique)	                    3	        2
+	
+Hyperliens propos´e(pratique)	            3	        2.5
+	
+Code bien ´ecrit (pratique)	            3	        2
+	
+Travail sur le Git (points bonus)	    2	        1.5
+	
+Auto-´evaluation correcte (point bonus)     1	        1	
+
+
+
+
+
+
+
+
+
+
+
