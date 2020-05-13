@@ -1,0 +1,34 @@
+Reponses aux Questions
+
+Q1 : le package models doit etre rajouter dans le repertoire app.
+Q2 : a fin de pouvoir l'utiliser, il faudra palier le package models au controleur
+
+
+
+       les utilité des imports 
+
+    1.1 import java.util.List               c'est un outil java pour créer une liste(contiens ArrayList、LinkedList、Vector)
+    
+    1.2 import play.mvc.*                   c'est l'emsemble des modules MVC
+    
+    1.3 import play.data.*                  c'est un outil pour enregistrer et configurer des données
+    
+    1.4 import javax.inject.Inject          identifier et injecter les constructeur et les méthodes
+    
+    1.5 import views.html.*                 il contiens les tmplates html
+    
+    1.6 import models.Person                c'est la classe de modèle qu'on viens de créer
+    
+Question 3 : le chemin a rajouter au fichier route sont 
+
+    	GET     /sayhelloform          controllers.HomeController.sayhelloform(request : Request)
+	GET     /helloworldform          controllers.HomeController.helloworldform(request : Request)
+    
+Question 4 : Le code ModelFormulaire collecter des données en bon format utilisant l'expression régulière
+
+
+
+
+
+
+
